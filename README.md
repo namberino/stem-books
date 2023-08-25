@@ -10,6 +10,7 @@ This repository contains a curated list of all the STEM books that I love
     - [Electrical](#electrical)
     - [Mechanical](#mechanical)
     - [Robotics](#robotics)
+    - [Aeronautics](#aeronautics)
 - [Math]()
     - [General Math](#general-math)
     - [Calculus](#calculus)
@@ -66,6 +67,9 @@ This repository contains a curated list of all the STEM books that I love
 - [Robot Dynamics and Control - Mark W. Spong](/Engineering/Robotics/Robot%20Dynamics%20and%20Control%20-%20Mark%20W.%20Spong.pdf)
 - [Robotics, Vision and Control: Fundamental Algorithms in MATLAB - Peter Corke](/Engineering/Robotics/Robotics,%20Vision%20and%20Control%20-%20Fundamental%20Algorithms%20in%20MATLAB%20-%20Peter%20Corke.pdf)
 - [Springer Handbook of Robotics - Oussama Khatib](/Engineering/Robotics/Springer%20Handbook%20of%20Robotics%20-%20Oussama%20Khatib.pdf)
+### Aeronautics
+- [Fundamentals of Aerodynamics - John D. Anderson](/Engineering/Aeronautics/Fundamentals%20of%20Aerodynamics%20-%20John%20D.%20Anderson.pdf)
+- [Introduction to Flight - John D. Anderson](/Engineering/Aeronautics/Introduction%20to%20Flight%20-%20John%20D.%20Anderson.pdf)
 
 ## Math
 ### General Math
