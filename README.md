@@ -44,6 +44,9 @@ This repository contains a curated list of all the STEM books that I love
 - [FPGA Programming for Beginners - Frank Bruno](/Engineering/Computer%20and%20Embedded/FPGA%20Programming%20for%20Beginners%20-%20Frank%20Bruno.pdf)
 - [Getting started with MicroPython - Ben Everard, Gareth Halfacree](/Engineering/Computer%20and%20Embedded/Getting%20started%20with%20MicroPython%20-%20Ben%20Everard,%20Gareth%20Halfacree.pdf)
 - [Making Embedded Systems - Design Patterns for Great Software - Elecia White](/Engineering/Computer%20and%20Embedded/Making%20Embedded%20Systems%20-%20Design%20Patterns%20for%20Great%20Software%20-%20Elecia%20White.pdf)
+- [Computer Science from the Bottom Up - Ian Wienand](/Engineering/Computer%20and%20Embedded/Computer%20Science%20from%20the%20Bottom%20Up%20-%20Ian%20Wienand.pdf)
+- [Digital Electronics - Agner Fog](/Engineering/Computer%20and%20Embedded/Digital%20Electronics%20-%20Agner%20Fog.pdf)
+- [The Elements of Computing Systems - Building a Modern Computer from First Principles - Noam Nisan, Shimon Schocken](/Engineering/Computer%20and%20Embedded/The%20Elements%20of%20Computing%20Systems%20-%20Building%20a%20Modern%20Computer%20from%20First%20Principles%20-%20Noam%20Nisan,%20Shimon%20Schocken.pdf)
 ### Electrical
 - [Electromagnetic Fields and Waves - Magdy F. Iskander](/Engineering/Electrical/Electromagnetic%20Fields%20and%20Waves%20-%20Magdy%20F.%20Iskander%20-%201.pdf)
 - [Foundations of analog and digital electronic circuits - Anant Agarwal](/Engineering/Electrical/Foundations%20of%20analog%20and%20digital%20electronic%20circuits%20-%20Anant%20Agarwal.pdf)
