@@ -148,6 +148,8 @@ This repository contains a curated list of all the STEM books that I love
 - [Professional Assembly Language - Richard BLUM](/Tech/Programming/Professional%20Assembly%20Language%20-%20Richard%20BLUM.pdf)
 - [Programming from the Ground Up - Jonathan Bartlett](/Tech/Programming/Programming%20from%20the%20Ground%20Up%20-%20Jonathan%20Bartlett.pdf)
 - [The Art of Assembly Language - Randall Hyde](/Tech/Programming/The%20Art%20of%20Assembly%20Language%20-%20Randall%20Hyde.pdf)
+- [Beej's Guide to Network Programming - Using Internet Sockets](/Tech/Programming/Beej's%20Guide%20to%20Network%20Programming%20-%20Using%20Internet%20Sockets.pdf)
+- [The Linux Programming Interface - Michael Kerrisk](/Tech/Programming/The%20Linux%20Programming%20Interface%20-%20Michael%20Kerrisk.pdf)
 
 ### Cybersecurity
 - [Black Hat Python - Justin Seitz](/Tech/Cybersecurity/Black%20Hat%20Python%20-%20Justin%20Seitz.pdf)
