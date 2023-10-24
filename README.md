@@ -140,6 +140,7 @@ This repository contains a curated list of all the STEM books that I love
 - [Think Like a Programmer - An Intro. to Creative Problem Solving - V. Anton Spraul](/Tech/Theory/Think%20Like%20a%20Programmer%20-%20An%20Intro.%20to%20Creative%20Problem%20Solving%20-%20V.%20Anton%20Spraul.pdf)
 - [Operating System - From 0 to 1 - Do Hoang Tu](/Tech/Theory/Operating%20System%20-%20From%200%20to%201%20-%20Do%20Hoang%20Tu.pdf)
 - [The Pragmatic Programmer - Andy Hunt, Dave Thomas](/Tech/Theory/The%20Pragmatic%20Programmer%20-%20Andy%20Hunt,%20Dave%20Thomas.pdf)
+- [Code - The Hidden Language of Computer Hardware and Software - Charles Petzold](/Tech/Theory/Code%20-%20The%20Hidden%20Language%20of%20Computer%20Hardware%20and%20Software%20-%20Charles%20Petzold.pdf)
 
 ### Programming
 - [The C Programming Language - Brian Kernighan, Dennis Ritchie](/Tech/Programming/The%20C%20Programming%20Language%20-%20Brian%20Kernighan,%20Dennis%20Ritchie.pdf)
