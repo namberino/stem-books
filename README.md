@@ -77,6 +77,7 @@ This repository contains a curated list of all the STEM books that I love
 ## Math
 ### General Math
 - [Mathematical Methods for Physicists - A Comprehensive Guide - Arfken, Weber, Harris](/Math/Mathematical%20Methods%20for%20Physicists%20-%20A%20Comprehensive%20Guide%20-%20Arfken,%20Weber,%20Harris.pdf)
+- [Engineering Mathematics - Anthony Croft, Robert Davison, Martin Hargreaves, James Flint](/Math/Engineering%20Mathematics%20-%20Anthony%20Croft,%20Robert%20Davison,%20Martin%20Hargreaves,%20James%20Flint.pdf)
 ### Calculus
 - [Advanced Engineering Mathematics - Dennis G. Zill](/Math/Calculus/Advanced%20Engineering%20Mathematics%20-%20Dennis%20G.%20Zill.pdf)
 - [Calculus - Early Transcendentals - James Stewart](/Math/Calculus/Calculus%20-%20Early%20Transcendentals%20-%20James%20Stewart.pdf)
